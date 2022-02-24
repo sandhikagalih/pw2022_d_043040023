@@ -53,7 +53,10 @@ echo "<hr>";
 // Identitas
 // ===, !==
 echo 10 === "10";
+echo "<hr>";
 
+// Komponen sintax PHP yang lain
+echo "selesai mengerjakan tugas pertemuan 2";
 
 
 ?>
